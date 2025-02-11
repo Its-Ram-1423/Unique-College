@@ -1,39 +1,19 @@
 {
   "userDetais": [
     {
+      "id": "b47c",
       "userName": "vijay",
-      "password": "jd@2026",
-      "id": "b47c"
+      "password": "jd@2026"     
     },
     {
+       "id": "e554",
       "userName": "ajith",
-      "password": "racer",
-      "id": "e554"
+      "password": "racer"   
     },
     {
       "id": "9a92",
       "userName": "Ram",
-      "password": "123"
-    },
-    {
-      "id": "0eba",
-      "userName": "Ram1",
-      "password": "14230223"
-    },
-    {
-      "id": "b4cf",
-      "userName": "ram2",
-      "password": "1234"
-    },
-    {
-      "id": "b921",
-      "userName": "ram2",
-      "password": "1425785867089079"
-    },
-    {
-      "id": "6205",
-      "userName": "santhosh",
-      "password": "1234"
+      "password": "123"      
     }
   ]
 }
